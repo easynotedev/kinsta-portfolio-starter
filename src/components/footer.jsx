@@ -9,16 +9,9 @@ const Footer = () => {
             © {new Date().getFullYear()} Antonin's Portfolio
           </p>
           <div className="social_icons">
+           
             <a
-              href="https://twitter.com/olawanle_joel"
-              aria-label="Twitter"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="fa-brands fa-twitter"></i>
-            </a>
-            <a
-              href="https://github.com/olawanlejoel"
+              href="https://github.com/easynotedev"
               aria-label="GitHub"
               target="_blank"
               rel="noopener noreferrer"
@@ -26,7 +19,7 @@ const Footer = () => {
               <i className="fa-brands fa-github"></i>
             </a>
             <a
-              href="https://www.linkedin.com/in/olawanlejoel/"
+              href="https://www.linkedin.com/in/aktilaon/"
               aria-label="LinkedIn"
               target="_blank"
               rel="noopener noreferrer"

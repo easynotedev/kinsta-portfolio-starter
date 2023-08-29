@@ -1,4 +1,6 @@
 import Hero from '@/components/Hero';
+import About from '@/components/About';
+import Skills from '@/components/Skills';
 
 import Head from 'next/head';
 
@@ -13,9 +15,9 @@ const Home = () => {
 			</Head>
 			<div>
 				<Hero />
-				{/*} <About />
+				<About />
 				<Skills />
-				<Projects />
+				{/*<Projects />
 				<Contact />  */}
 			</div>
 		</>
