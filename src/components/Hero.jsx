@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Hey, I'm Antonin 👋🏝️🌅</h1>
         <p>
-          I'm a associate software developer based in Palawan, Philippines. I currently certifying myself to be a front-end web developer.
+          I'm a associate software developer based in Palawan, Philippines. I currently certifying myself to be a web developer.
           I have associate industry experience, eager to put my skills into practice.
         </p>
         <div className="social-icons">
