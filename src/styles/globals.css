@@ -293,6 +293,15 @@ hr {
   background-color: #3776AB;
 }
 
+.skills-container .grid-skills .python:hover {
+  background-color: #aff41ae0;
+}
+
+.skills-container .grid-skills .sql:hover {
+  background-color: #22a3dee0;
+}
+
+
 /* Projects */
 .projects-container {
   padding: 2rem 0;

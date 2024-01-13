@@ -32,7 +32,11 @@ const Skills = () => {
           <div className="skill-card python">
             <i className="fa-brands fa-python python-icon"></i>
             <p>Python</p>
-          </div>S
+          </div>
+          <div className="skill-card sql">
+            <i className="fa-brands fa-sql sql-icon"></i>
+            <p>SQL</p>
+          </div>
         </div>
       </div>
     )
