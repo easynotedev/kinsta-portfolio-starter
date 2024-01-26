@@ -37,6 +37,14 @@ const Skills = () => {
             <i className="fa-brands fa-sql sql-icon"></i>
             <p>SQL</p>
           </div>
+          <div className="skill-card powerbi">
+            <i className="fa-brands fa-powerbi powerbi-icon"></i>
+            <p>Power BI</p>
+          </div>
+          <div className="skill-card microexcel">
+            <i className="fa-brands fa-microexcel microexcel-icon"></i>
+            <p>Microsoft Excel</p>
+          </div>
         </div>
       </div>
     )

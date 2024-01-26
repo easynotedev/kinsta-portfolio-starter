@@ -9,8 +9,8 @@ const Hero = () => {
       <div className="hero-text">
         <h1>Hey, I'm Antonin 👋🏝️🌅</h1>
         <p>
-          I'm a web developer based in Palawan, Philippines. I currently certifying myself to be a web developer and data analyst.
-          I have industry experience, eager to put my skills into a work environment. I have understanding of Machine Learning and
+          I'm a software engineer based in Palawan, Philippines. I currently certifying myself to be a web developer and data analyst.
+          I have industry experience in data analysis and software development, eager to put my skills into a work environment. I have understanding of Machine Learning and
           it's web technologies applications.
         </p>
         <div className="social-icons">

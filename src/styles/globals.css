@@ -301,6 +301,14 @@ hr {
   background-color: #22a3dee0;
 }
 
+.skills-container .grid-skills .powerbi:hover {
+  background-color: #ecde0fe0;
+}
+
+.skills-container .grid-skills .microexcel:hover {
+  background-color: #17a105e0;
+}
+
 
 /* Projects */
 .projects-container {
