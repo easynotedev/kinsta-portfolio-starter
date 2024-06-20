@@ -7,10 +7,9 @@ const Hero = () => {
     <div className="hero-container">
       <Image src='/images/profile.jpeg' className="profile-img" width={300} height={300} alt="Antonin's personal headshot" />
       <div className="hero-text">
-        <h1>Hey, I'm Antonin 👋🏝️🌅</h1>
+        <h1>Hi👋, my name is Antonin Karlo Tilaon </h1>
         <p>
-          I'm a software engineer based in Palawan, Philippines. I have industry experience in ETL data and software development, eager to put my skills into a work environment. I have understanding of Machine Learning and
-          it's web technologies applications.
+          I'm a web developer based in Palawan🏝️Philippines🌅. I have industry experience in software and web development. As well as teaching college students on emerging technologies such as cloud-computing, machine learning, and data analytics. I am eager to put my skills into a work environment.
         </p>
         <div className="social-icons">
           <a

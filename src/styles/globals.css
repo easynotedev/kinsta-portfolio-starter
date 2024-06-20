@@ -185,7 +185,7 @@ hr {
 }
 
 .about-container .flex-about .about-text {
-  width: 50%;
+  width: 35%;
 }
 
 .about-container .flex-about .about-text p {
@@ -309,6 +309,25 @@ hr {
   background-color: #17a105e0;
 }
 
+.skills-container .grid-skills .bash:hover {
+  background-color: #740abae0;
+}
+
+.skills-container .grid-skills .qa:hover {
+  background-color: #dce326e0;
+}
+
+.skills-container .grid-skills .osimodel:hover {
+  background-color: #b4ba0ae0;
+}
+
+.skills-container .grid-skills .rest:hover {
+  background-color: #0909c5e0;
+}
+
+.skills-container .grid-skills .cloud:hover {
+  background-color: #09b5c5e0;
+}
 
 /* Projects */
 .projects-container {

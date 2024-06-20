@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className="nav-container">
       <div className="logo">
         <Link href="/">
-          Antonin's Portfolio
+          Karlo's Portfolio
         </Link>
       </div>
      {/*<a href="" className="cta-btn">Resume</a>*/} 
